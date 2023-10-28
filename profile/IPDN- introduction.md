@@ -74,6 +74,4 @@ IPDN occupies a favorable position in the decentralized data storage market. The
 
 **Conclusion**
 
-The IPDN project represents not only a
-
- decentralized hot data storage and content delivery network but also incorporates Compute-over-Data features in the future. Developers and investors should closely monitor the development of IPDN, as it holds the potential to become a pivotal platform for decentralized hot data storage and content delivery in the future.
+The IPDN project represents not only a decentralized hot data storage and content delivery network but also incorporates Compute-over-Data features in the future. Developers and investors should closely monitor the development of IPDN, as it holds the potential to become a pivotal platform for decentralized hot data storage and content delivery in the future.
