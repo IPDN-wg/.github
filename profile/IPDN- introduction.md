@@ -8,11 +8,13 @@ With the dawn of the digital age, data has become the lifeblood of our contempor
 
 *Project Background*
 
-The concept behind the IPDN project draws inspiration from the Filecoin project, the IPFS project, and the practical needs of dApp developers. Building on our team's prior experience and insights, we have recognized that existing decentralized storage products fall short of fully satisfying developers' requirements. For example, Nowhere, a decentralized short video sharing app, demands high real-time access for streaming content and data, while mainstream decentralized storage projects struggle to deliver such high-performance capabilities. Moreover, traditional centralized data storage methods face a plethora of challenges, including single points of failure, data loss, data tampering, data ownership monopolies, and more. This has fueled the emergence of decentralized data storage solutions, which aim to fulfill the heightened demand for data availability and security while restoring data sovereignty to users.
+The concept behind the IPDN(Interplanetary Data Network) project draws inspiration from the Filecoin project, the IPFS project, and the practical needs of dApp developers. Building on our team's prior experience and insights, we have recognized that existing decentralized storage products fall short of fully satisfying developers' requirements. For example, Nowhere, a decentralized short video sharing app, demands high real-time access for streaming content and data, while mainstream decentralized storage projects struggle to deliver such high-performance capabilities. Moreover, traditional centralized data storage methods face a plethora of challenges, including single points of failure, data loss, data tampering, data ownership monopolies, and more. This has fueled the emergence of decentralized data storage solutions, which aim to fulfill the heightened demand for data availability and security while restoring data sovereignty to users.
 
 *Introducing IPDN*
 
 IPDN is a decentralized hot data instant access and content delivery network. Its core mission is to provide efficient, secure, scalable, and user-friendly data storage and content transmission services. The architectural foundation of this project comprises city nodes and edge nodes, offering developers and users a novel data storage and distribution solution.
+
+![image-20231028213046701](./assets/image-20231028213046701.png)
 
 **1.1 Key Features**
 
@@ -29,6 +31,8 @@ IPDN's key features encompass:
 *Proof-of-Storage and Proof-of-Retrieve*: To verify data integrity and security, IPDN employs storage proof and retrieval proof mechanisms. These ensure that nodes are genuinely storing data and that users can securely and completely retrieve their data.
 
 *Proof-of-Location*: For the DePIN service, it is crucial that nodes are geographically dispersed to enhance the user experience. IPDN employs Proof-of-Location to mandate city nodes to submit location proofs to the network. The IPDN network restricts the number of city nodes in different regions based on actual user and data volume to prevent node centralization and ensure a healthy incentive network, avoiding malicious competition.
+
+![img](./assets/jPBNvWHgc0TK87cgzbOCx1luI_Qaef88NspBOaUhxiYdrsCmBQTlBzfcv1yldiJ9tmasS8zqlc5VqXovzeCxsMyMCZa7kE_nlW44AiDcKs0AMHA4qxuPtaceC2Y89SMZWN0bJJ5WxQotxGZAI8fayTUvDA=s2048.png)
 
 **Part Two: Highlights and Use Cases of IPDN**
 
